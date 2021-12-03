@@ -6,5 +6,7 @@ I am currently looking for a job as a Front-end developer.
 I will be glad to share my experience and learn from other developers.
 
 ### MY TECHNOLOGY STACK AND TOOLS
-https://raw.githubusercontent.com/Michelle-Jdia/Michelle-Jdia/d6abdcb513e5fa84ba33fa507d1c792c5e59de96/svg/html-5.svg
+![image](https://user-images.githubusercontent.com/51228454/144570128-6bf0f39e-264a-4bf1-b740-e99e9aef5ad8.png)
+
+
 HTML CSS SASS JS React Angular Git
