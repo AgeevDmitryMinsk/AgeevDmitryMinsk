@@ -16,6 +16,8 @@
 
 ![image](https://i.ytimg.com/vi/Jsn4EWeXwEk/hqdefault.jpg)
 
+![image](https://wealcomecompany.com/static/react-typescript-logo-facba47fe38b063526b409cee2b93ef5.png)
+
 ![image](https://www.codewars.com/users/AgeevDmitryMinsk/badges/large)
 
 
