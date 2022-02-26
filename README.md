@@ -7,7 +7,7 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Ageev Dmitry&fontSize=40&fontColor=FFF&animation=twinkling&fontAlignY=45"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Ageev Dmitry&fontSize=40&fontColor=000&animation=twinkling&fontAlignY=45"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NICKNAME+===+AgeevDmitryMinsk;MY+HOBBY+===+WEB+DEVELOPMENT;NOW+I+STUDY+REACT+IN+IT_INCUBATOR;IF+(LIKE+MY+PRESENTATION)+FOLLOW+%26%26+STAR;THANK+YOU+:%29)](https://git.io/typing-svg)
 
