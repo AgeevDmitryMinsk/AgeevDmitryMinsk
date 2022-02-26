@@ -1,3 +1,11 @@
+<!--  # Dmitry Ageev Minsk
+- 👋 Hi, I’m Dmitry Ageev Minsk
+- 👀 I’m interested in JS,TS CSS/SASS and HTML
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on web app & platform development 
+- 📫 How to reach me ageev.dmitry@outlook.com -->
+
+
 # Hi there 👋 My name is Dmitry.
 ### I started studying frontend development in 2021.
 ### I'm responsible, motivated, easy-to-learn Frontend Developer. 
@@ -15,13 +23,6 @@
 
 ![image](https://www.codewars.com/users/AgeevDmitryMinsk/badges/large)
 
-
-<!--  # Nazarov Asadbek
-- 👋 Hi, I’m Nazarov Asadbek
-- 👀 I’m interested in JS, CSS/SASS and HTML
-- 🌱 I’m currently learning SASS
-- 💞️ I’m looking to collaborate on web app & platform development 
-- 📫 How to reach me nazarov_asadbek_official@mail.ru -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
