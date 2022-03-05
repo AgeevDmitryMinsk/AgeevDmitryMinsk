@@ -70,8 +70,9 @@
 
 ### Studying in this moment:
 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![StoryBook](https://img.shields.io/badge/-StoryBook-0D1117?style=for-the-badge&logo=StoryBook&labelColor=0D1117)&nbsp;
 
 
 ### Areas of Interest:
