@@ -1,7 +1,7 @@
 <!--  # Dmitry Ageev Minsk
 - 👋 Hi, I’m Dmitry Ageev Minsk
-- 👀 I’m interested in JS,TS CSS/SASS and HTML
-- 🌱 I’m currently learning React
+- 👀 I’m interested in React/TS, Angular
+- 🌱 I am currently looking for a job as a Front-end developer.
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me ageev.dmitry@outlook.com -->
 
@@ -12,7 +12,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11f&height=150&section=header&text=Ageev Dmitry&fontSize=40&fontColor=000&animation=twinkling&fontAlignY=45"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NICKNAME+===+AgeevDmitryMinsk;MY+HOBBY+===+WEB+DEVELOPMENT;NOW+I+STUDY+REACT+IN+IT_INCUBATOR;IF+(LIKE+MY+PRESENTATION)+FOLLOW+%26%26+STAR;THANK+YOU+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+AgeevDmitryMinsk;I+AM+REACT-DEVELOPER;I'M+CURRENTLY+LOOKING+FOR+A+JOB+AS+A+REACT+DEVELOPER;IF+(LIKE+MY+PRESENTATION)+FOLLOW+%26%26+STAR;THANK+YOU+:%29)](https://git.io/typing-svg)
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AgeevDmitryMinsk&theme=black-ice&hide_border=true&stroke=1001&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="AgeevDmitryMinsk" /></div>
 
@@ -88,7 +88,8 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AgeevDmitryMinsk}/count.svg" /></p> 
+
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AgeevDmitryMinsk}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
