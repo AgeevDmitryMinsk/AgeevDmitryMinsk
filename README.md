@@ -53,7 +53,7 @@
 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Redux.js](https://img.shields.io/badge/-Redux.js-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
-![Redux Toolkit.js](https://img.shields.io/badge/-Redux Toolkit-0D1117?style=for-the-badge&logo=reduxtoolkit&labelColor=0D1117)&nbsp;
+![ReduxToolkit.js](https://img.shields.io/badge/-ReduxToolkit-0D1117?style=for-the-badge&logo=reduxtoolkit&labelColor=0D1117)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![unit_tests](https://img.shields.io/badge/-unit_tests-0D1117?style=for-the-badge&logo=unit_tests&labelColor=0D1117)&nbsp;
 
