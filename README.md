@@ -7,8 +7,6 @@
 
 
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Nazarov Asadbek&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11f&height=150&section=header&text=Ageev Dmitry&fontSize=40&fontColor=000&animation=twinkling&fontAlignY=45"/>
 
