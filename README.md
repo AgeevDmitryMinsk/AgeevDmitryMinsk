@@ -6,7 +6,7 @@
 - 📫 How to reach me ageev.dmitry@outlook.com -->
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11f&height=150&section=header&text=Ageev Dmitry&fontSize=40&fontColor=000&animation=twinkling&fontAlignY=45"/>
 
